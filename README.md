@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/noboru-i-nature-remo-mcp-server-badge.png)](https://mseep.ai/app/noboru-i-nature-remo-mcp-server)
+
 # Nature Remo MCP server
 
 [![npm version](https://badge.fury.io/js/nature-remo-mcp-server.svg)](https://badge.fury.io/js/nature-remo-mcp-server)
